@@ -1,0 +1,11 @@
+species_type,species_name,population_estimate,location,farming_system,h5n1_risk,migration_status,market_exposure
+Domestic Chickens,Broilers,500000000,Central Plains,Commercial intensive,HIGH,Non-migratory,HIGH
+Domestic Chickens,Layers,150000000,Central Plains,Commercial cage,HIGH,Non-migratory,HIGH
+Domestic Chickens,Backyard,50000000,Rural nationwide,Free-range backyard,EXTREME,Non-migratory,EXTREME
+Domestic Ducks,Free-grazing,13000000,Central wetlands,Rotational grazing,EXTREME,Seasonal movement,HIGH
+Domestic Ducks,Commercial,5000000,Central/Eastern regions,Intensive farming,HIGH,Non-migratory,MEDIUM
+Wild Waterfowl,Various species,2000000,Central plains wetlands,Wild,HIGH,Seasonal migration,MEDIUM
+Urban Pigeons,Columba livia,500000,Bangkok metropolitan,Feral urban,MEDIUM,Non-migratory,HIGH
+Wild Geese,Anser species,100000,Northern wetlands,Wild,HIGH,Migratory,LOW
+Quail,Commercial,10000000,Central/Eastern farms,Intensive,HIGH,Non-migratory,MEDIUM
+Guinea Fowl,Backyard,1000000,Rural areas,Free-range,MEDIUM,Non-migratory,MEDIUM

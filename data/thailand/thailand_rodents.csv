@@ -1,0 +1,11 @@
+species_name,scientific_name,habitat_type,population_density,human_contact_risk,known_zoonotic_diseases,urban_rural_distribution
+Black Rat,Rattus rattus,Urban/periurban,EXTREME,EXTREME,"Leptospirosis, Bartonella, Seoul virus",Urban dominant
+Brown Rat,Rattus norvegicus,Urban areas,HIGH,HIGH,"Seoul virus, Leptospirosis, Salmonella",Urban
+Pacific Rat,Rattus exulans,Rural/coastal,MEDIUM,MEDIUM,"Scrub typhus vectors, Leptospirosis",Rural/coastal
+Rice Field Rat,Rattus argentiventer,Agricultural areas,HIGH,HIGH,"Multiple microparasites",Rural agricultural
+Bandicoot Rat,Bandicota indica,Agricultural/periurban,HIGH,HIGH,"Scrub typhus, Leptospirosis",Rural/periurban
+Lesser Bandicoot,Bandicota savilei,Agricultural areas,MEDIUM,HIGH,"High pathogen diversity",Rural
+House Mouse,Mus musculus,Human settlements,HIGH,HIGH,"Salmonella, viral pathogens",Urban/rural
+Fawn-colored Mouse,Mus cervicolor,Forest edges,MEDIUM,MEDIUM,"Lower pathogen load",Rural
+White-bellied Rat,Rattus losea,Wetland areas,MEDIUM,MEDIUM,"Wetland-associated pathogens",Wetland/rural
+Mueller's Rat,Sundamys muelleri,Forest/urban edge,MEDIUM,HIGH,"High tick infestation, pathogens",Periurban

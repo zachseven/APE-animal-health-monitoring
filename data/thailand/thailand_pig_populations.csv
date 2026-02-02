@@ -1,0 +1,12 @@
+pig_type,population_estimate,region,farm_density,wild_interface_risk,border_proximity,disease_history
+Domestic Pigs,5300000,Central Plains,HIGH,MEDIUM,LOW,"PEDV, PDCoV, ASF"
+Domestic Pigs,1600000,Northern Thailand,MEDIUM,HIGH,HIGH,"ASF spillover risk"
+Domestic Pigs,1000000,Northeastern Thailand,MEDIUM,HIGH,HIGH,"Cross-border ASF"
+Domestic Pigs,800000,Southern Thailand,MEDIUM,LOW,MEDIUM,"PEDV endemic"
+Wild Boar,31413,Chiang Mai Province,HIGH,EXTREME,HIGH,"ASF reservoir"
+Wild Boar,21551,Mae Hong Son Province,MEDIUM,EXTREME,EXTREME,"Myanmar border"
+Wild Boar,20912,Tak Province,MEDIUM,EXTREME,EXTREME,"Myanmar border"
+Wild Boar,20873,Kanchanaburi Province,MEDIUM,HIGH,HIGH,"Forest interface"
+Thai Indigenous Pigs,50000,Northern regions,LOW,HIGH,MEDIUM,"Traditional farming"
+Thai Indigenous Pigs,30000,Northeastern regions,LOW,HIGH,HIGH,"Cross-border mixing"
+Thai Indigenous Pigs,20000,Southern regions,LOW,MEDIUM,LOW,"Isolated populations"

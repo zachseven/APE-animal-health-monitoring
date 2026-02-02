@@ -1,0 +1,13 @@
+worker_category,population_estimate,primary_location,animal_contact_level,mobility_pattern,cross_border_exposure,transmission_risk
+Poultry Farm Workers,150000,Central/Eastern provinces,EXTREME,Daily commute 5-20km,LOW,EXTREME
+Pig Farm Workers,80000,Central/Northern provinces,EXTREME,Daily commute 5-20km,MEDIUM,EXTREME
+Market Vendors,75000,Urban markets nationwide,EXTREME,Daily urban contact,LOW,EXTREME
+Cattle Farmers,400000,Rural areas nationwide,HIGH,Weekly rural-urban,LOW,HIGH
+Veterinarians,5000,Mobile nationwide,EXTREME,Multi-province travel,MEDIUM,EXTREME
+Slaughter Workers,25000,Processing facilities,EXTREME,Daily commute,LOW,EXTREME
+Cross-border Workers,50000,Border provinces,HIGH,Daily/weekly cross-border,EXTREME,EXTREME
+Agricultural Migrants,200000,Seasonal movement,MEDIUM,Seasonal long-distance,HIGH,HIGH
+Rice Farmers,16000000,Rural nationwide,MEDIUM,Seasonal market trips,LOW,MEDIUM
+Duck Herders,30000,Central wetlands,EXTREME,Daily wetland contact,LOW,EXTREME
+Wildlife Handlers,2000,Tourism/research sites,HIGH,Multi-site travel,LOW,HIGH
+Transport Workers,15000,Livestock transport,HIGH,Inter-provincial routes,MEDIUM,HIGH

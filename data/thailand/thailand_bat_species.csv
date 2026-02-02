@@ -1,0 +1,9 @@
+species_name,scientific_name,location,population_estimate,habitat_type,human_contact_risk,known_pathogens,seasonal_pattern
+Lyle's Flying Fox,Pteropus lylei,"Saraburi Province, Bangkok temples",10000,Buddhist temples,HIGH,"Nipah virus, Lyssavirus",Sep-Dec fruit season
+Large Flying Fox,Pteropus vampyrus,"Southern Thailand, coastal areas",5000,Coastal mangroves,MEDIUM,"Coronavirus, Paramyxovirus",Year-round
+Cave Nectar Bat,Eonycteris spelaea,"Cave systems nationwide",15000,Limestone caves,MEDIUM,"Coronavirus variants",Year-round
+Lesser Horseshoe Bat,Rhinolophus pusillus,"Northern cave systems",8000,Forest caves,LOW,"SARS-related coronavirus",Year-round
+Greater Roundleaf Bat,Hipposideros armiger,"Central Thailand caves",6000,Cave roosts,LOW,"Beta-coronavirus",Year-round
+Wrinkle-lipped Bat,Chaerephon plicatus,"Temple complexes, urban areas",12000,Urban roosts,HIGH,"Lyssavirus",Year-round
+Dawn Bat,Eonycteris major,"Southern peninsular caves",4000,Forest caves,LOW,"Unknown coronavirus",Year-round
+Intermediate Horseshoe Bat,Rhinolophus affinis,"Widespread cave systems",20000,Limestone caves,MEDIUM,"SARS-CoV-related",Year-round

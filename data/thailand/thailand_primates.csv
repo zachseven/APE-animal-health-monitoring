@@ -1,0 +1,9 @@
+species_name,scientific_name,population_estimate,habitat_type,human_contact_level,zoonotic_pathogens,tourism_exposure
+Long-tailed Macaque,Macaca fascicularis,59840,Human-conflict zones,EXTREME,"SFV 56.5%, HBV 0.3%, Plasmodium 2.2%",HIGH
+Northern Pig-tailed Macaque,Macaca leonina,1365,Forest/agricultural edges,HIGH,"Dengue antibodies, ZIKV antibodies",MEDIUM
+Rhesus Macaque,Macaca mulatta,1310,Temple complexes,HIGH,"Multiple zoonotic viruses",HIGH
+Stump-tailed Macaque,Macaca arctoides,1174,National parks,MEDIUM,"Dengue, Zika, Chikungunya antibodies",MEDIUM
+Assam Macaque,Macaca assamensis,306,Forest reserves,LOW,"Unknown pathogen load",LOW
+Southern Pig-tailed Macaque,Macaca nemestrina,200,Southern forests,LOW,"Potential simian viruses",LOW
+Gibbons,Hylobates species,5000,Forest canopy,LOW,"Unknown zoonotic risk",MEDIUM
+Langurs,Presbytis species,3000,Forest areas,LOW,"Potential respiratory viruses",LOW

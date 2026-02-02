@@ -1,0 +1,21 @@
+province_name,region,animal_density_score,worker_mobility_score,cross_border_risk,market_density,historical_outbreaks,overall_risk_score
+Bangkok,Central,7,10,2,10,8,8.5
+Nakhon Pathom,Central,9,9,2,9,9,9.0
+Saraburi,Central,8,8,2,8,7,8.0
+Chiang Mai,Northern,7,7,8,7,8,7.8
+Mae Hong Son,Northern,6,6,10,4,6,7.5
+Tak,Northern,6,5,10,5,7,7.2
+Nakhon Ratchasima,Northeastern,7,7,7,8,7,7.5
+Ubon Ratchathani,Northeastern,6,6,8,6,6,6.8
+Mukdahan,Northeastern,5,5,9,5,5,6.5
+Nakhon Phanom,Northeastern,5,5,9,5,6,6.6
+Songkhla,Southern,6,6,6,7,6,6.5
+Phuket,Southern,4,8,3,8,5,6.0
+Krabi,Southern,5,6,4,6,5,5.5
+Chonburi,Eastern,7,8,3,8,8,7.5
+Rayong,Eastern,6,7,3,7,6,6.5
+Prachuap Khiri Khan,Western,5,5,5,5,5,5.2
+Ratchaburi,Central,7,7,4,7,7,7.0
+Suphan Buri,Central,8,7,3,7,6,6.8
+Lopburi,Central,7,7,3,7,7,6.8
+Ayutthaya,Central,8,8,3,8,8,7.8
